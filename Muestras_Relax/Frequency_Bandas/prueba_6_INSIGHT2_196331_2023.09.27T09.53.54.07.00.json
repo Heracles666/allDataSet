@@ -1,0 +1,42 @@
+{
+    "Markers": [
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T09:54:58.560453-07:00",
+            "extras": {
+            },
+            "index": 1,
+            "label": "Eyes Opened",
+            "originalEndDatetime": "2023-09-27T09:54:58.563884-07:00",
+            "originalStartDatetime": "2023-09-27T09:53:58.559009-07:00",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2023-09-27T09:53:58.556163-07:00",
+            "type": "interval",
+            "uuid": "23770c25-456e-42e1-9a4d-ac9de4dcbe95",
+            "value": 1
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T09:56:03.570958-07:00",
+            "extras": {
+            },
+            "index": 2,
+            "label": "Eyes Closed",
+            "originalEndDatetime": "2023-09-27T09:56:03.573256-07:00",
+            "originalStartDatetime": "2023-09-27T09:55:03.568171-07:00",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2023-09-27T09:55:03.566668-07:00",
+            "type": "interval",
+            "uuid": "e74c8306-1fcd-4a34-9e6e-fda1fffd3b68",
+            "value": 3
+        }
+    ],
+    "connectionType": "bluetooth",
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2023-09-27T10:02:15.252-07:00",
+    "headsetType": "INSIGHT2",
+    "mappings": null,
+    "montageType": "UNKNOWN",
+    "recordId": "8f08c31a-29f2-4b1c-a493-ff94d2309fce",
+    "user": "lonecreep"
+}

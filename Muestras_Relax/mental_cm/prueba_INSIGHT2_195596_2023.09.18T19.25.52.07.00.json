@@ -1,0 +1,58 @@
+{
+    "Markers": [
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-18T19:26:21.381514-07:00",
+            "extras": {
+            },
+            "index": 1,
+            "label": "Eyes Opened",
+            "originalEndDatetime": "2023-09-18T19:26:21.382844-07:00",
+            "originalStartDatetime": "2023-09-18T19:25:56.380056-07:00",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2023-09-18T19:25:56.381649-07:00",
+            "type": "interval",
+            "uuid": "f040ba20-0392-4fa2-9fb1-6934227026ba",
+            "value": 1
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-18T19:26:51.387600-07:00",
+            "extras": {
+            },
+            "index": 2,
+            "label": "Eyes Closed",
+            "originalEndDatetime": "2023-09-18T19:26:51.387476-07:00",
+            "originalStartDatetime": "2023-09-18T19:26:26.384561-07:00",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2023-09-18T19:26:26.387735-07:00",
+            "type": "interval",
+            "uuid": "2e60b142-e6c2-43c2-8b83-91fbd1bce0a3",
+            "value": 3
+        }
+    ],
+    "connectionType": "bluetooth",
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2023-09-18T19:37:40.134-07:00",
+    "headsetType": "INSIGHT2",
+    "mappings": null,
+    "mentalCommandActions": {
+        "Disappear": 8192,
+        "Drop": 16,
+        "Left": 32,
+        "Lift": 8,
+        "Neutral": 1,
+        "Pull": 4,
+        "Push": 2,
+        "Right": 64,
+        "Rotate Backward": 4096,
+        "Rotate Clockwise": 512,
+        "Rotate Counter-Clockwise": 1024,
+        "Rotate Forward": 2048,
+        "Rotate Left": 128,
+        "Rotate Right": 256
+    },
+    "montageType": "UNKNOWN",
+    "recordId": "131a5101-fbc3-45e3-9cd0-4d97b06c4c0c",
+    "user": "lonecreep"
+}

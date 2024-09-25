@@ -1,0 +1,64 @@
+{
+    "Markers": [
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-26T12:57:33.269509-07:00",
+            "extras": {
+            },
+            "index": 1,
+            "label": "Eyes Opened",
+            "originalEndDatetime": "2023-09-26T12:57:33.270950-07:00",
+            "originalStartDatetime": "2023-09-26T12:57:03.267058-07:00",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2023-09-26T12:57:03.263373-07:00",
+            "type": "interval",
+            "uuid": "15dbbc91-f27d-4749-a1a5-785ffeb800b0",
+            "value": 1
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-26T12:58:08.281875-07:00",
+            "extras": {
+            },
+            "index": 2,
+            "label": "Eyes Closed",
+            "originalEndDatetime": "2023-09-26T12:58:08.281986-07:00",
+            "originalStartDatetime": "2023-09-26T12:57:38.455623-07:00",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2023-09-26T12:57:38.455369-07:00",
+            "type": "interval",
+            "uuid": "81c35203-d178-4432-80ee-aa762ccd740c",
+            "value": 3
+        }
+    ],
+    "connectionType": "bluetooth",
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2023-09-26T13:21:24.178-07:00",
+    "eyeActions": {
+        "Blink": 10,
+        "Look Left": -1,
+        "Look Right": 1,
+        "Neutral": 0,
+        "Wink Left": 11,
+        "Wink Right": 12
+    },
+    "facialExpressionActions": {
+        "Blink": 2,
+        "Clench Teeth": 256,
+        "Furrow Brows": 64,
+        "Horizontal Eye": 16,
+        "Laugh": 512,
+        "Neutral": 1,
+        "Raise Brows": 32,
+        "Smile": 128,
+        "Smirk Left": 1024,
+        "Smirk Right": 2048,
+        "Wink Left": 4,
+        "Wink Right": 8
+    },
+    "headsetType": "INSIGHT2",
+    "mappings": null,
+    "montageType": "UNKNOWN",
+    "recordId": "bb0a3e03-be5f-4198-a82a-07a327c53302",
+    "user": "lonecreep"
+}

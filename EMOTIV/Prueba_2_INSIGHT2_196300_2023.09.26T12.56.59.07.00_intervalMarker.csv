@@ -1,0 +1,3 @@
+latency,duration,type,marker_value,key,timestamp,marker_id
+3.608235,30.006136,Eyes_Opened,1,-1,1695758223.263373,1
+38.800231,29.826506,Eyes_Closed,3,-1,1695758258.455369,2
